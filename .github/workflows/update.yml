@@ -28,6 +28,8 @@ jobs:
         run: |
           git config user.name "DroughtWatch Bot"
           git config user.email "bot@droughtwatch"
+                    git pull --rebase
+
           git add data/drought.json
           git diff --cached --quiet || git commit -m "chore: update drought data $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
