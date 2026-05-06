@@ -32,4 +32,4 @@ jobs:
 
           git add data/drought.json
           git diff --cached --quiet || git commit -m "chore: update drought data $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          git push --force
