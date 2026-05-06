@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-06T03:33:04Z",
-  "updatedLabel": "May 6, 2026 03:33 UTC",
+  "updatedAt": "2026-05-06T17:17:53Z",
+  "updatedLabel": "May 6, 2026 17:17 UTC",
   "season": 2026,
   "players": [
     {
@@ -30,6 +30,19 @@
       "hr2025": null
     },
     {
+      "id": 621566,
+      "name": "Matt Olson",
+      "team": "\u2014",
+      "hr2026": 13,
+      "gp2026": 37,
+      "drought": 0,
+      "lastHR": "May 5",
+      "careerGPHR": 5.7,
+      "seasonGPHR": 2.8,
+      "ratio": 0.0,
+      "hr2025": null
+    },
+    {
       "id": 670541,
       "name": "Yordan Alvarez",
       "team": "\u2014",
@@ -40,19 +53,6 @@
       "careerGPHR": 5.0,
       "seasonGPHR": 3.1,
       "ratio": 1.2,
-      "hr2025": null
-    },
-    {
-      "id": 621566,
-      "name": "Matt Olson",
-      "team": "\u2014",
-      "hr2026": 12,
-      "gp2026": 37,
-      "drought": 1,
-      "lastHR": "May 4",
-      "careerGPHR": 5.7,
-      "seasonGPHR": 3.1,
-      "ratio": 0.175,
       "hr2025": null
     },
     {
@@ -151,12 +151,12 @@
       "name": "Kazuma Okamoto",
       "team": "\u2014",
       "hr2026": 10,
-      "gp2026": 35,
-      "drought": 0,
+      "gp2026": 36,
+      "drought": 1,
       "lastHR": "May 5",
-      "careerGPHR": 3.5,
-      "seasonGPHR": 3.5,
-      "ratio": 0.0,
+      "careerGPHR": 3.6,
+      "seasonGPHR": 3.6,
+      "ratio": 0.278,
       "hr2025": null
     },
     {
@@ -411,12 +411,12 @@
       "name": "Jonathan Aranda",
       "team": "\u2014",
       "hr2026": 7,
-      "gp2026": 35,
-      "drought": 7,
+      "gp2026": 36,
+      "drought": 8,
       "lastHR": "Apr 27",
       "careerGPHR": 8.1,
-      "seasonGPHR": 5.0,
-      "ratio": 0.864,
+      "seasonGPHR": 5.1,
+      "ratio": 0.988,
       "hr2025": null
     },
     {
@@ -476,12 +476,12 @@
       "name": "JJ Wetherholt",
       "team": "\u2014",
       "hr2026": 7,
-      "gp2026": 35,
-      "drought": 4,
+      "gp2026": 36,
+      "drought": 5,
       "lastHR": "Apr 30",
-      "careerGPHR": 5.0,
-      "seasonGPHR": 5.0,
-      "ratio": 0.8,
+      "careerGPHR": 5.1,
+      "seasonGPHR": 5.1,
+      "ratio": 0.98,
       "hr2025": null
     },
     {
