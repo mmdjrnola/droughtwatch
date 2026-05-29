@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-28T20:40:06Z",
-  "updatedLabel": "May 28, 2026 20:40 UTC",
+  "updatedAt": "2026-05-29T20:41:04Z",
+  "updatedLabel": "May 29, 2026 20:41 UTC",
   "season": 2026,
   "players": [
     {
@@ -21,12 +21,12 @@
       "name": "Yordan Alvarez",
       "team": "\u2014",
       "hr2026": 20,
-      "gp2026": 56,
-      "drought": 0,
+      "gp2026": 57,
+      "drought": 1,
       "lastHR": "May 27",
       "careerGPHR": 5.0,
-      "seasonGPHR": 2.8,
-      "ratio": 0.0,
+      "seasonGPHR": 2.9,
+      "ratio": 0.2,
       "hr2025": null
     },
     {
@@ -138,12 +138,12 @@
       "name": "Brandon Lowe",
       "team": "\u2014",
       "hr2026": 14,
-      "gp2026": 50,
-      "drought": 0,
+      "gp2026": 51,
+      "drought": 1,
       "lastHR": "May 27",
-      "careerGPHR": 4.6,
+      "careerGPHR": 4.7,
       "seasonGPHR": 3.6,
-      "ratio": 0.0,
+      "ratio": 0.213,
       "hr2025": null
     },
     {
@@ -186,16 +186,29 @@
       "hr2025": null
     },
     {
+      "id": 671739,
+      "name": "Michael Harris II",
+      "team": "\u2014",
+      "hr2026": 13,
+      "gp2026": 54,
+      "drought": 0,
+      "lastHR": "May 28",
+      "careerGPHR": 6.7,
+      "seasonGPHR": 4.2,
+      "ratio": 0.0,
+      "hr2025": null
+    },
+    {
       "id": 683002,
       "name": "Gunnar Henderson",
       "team": "\u2014",
       "hr2026": 13,
-      "gp2026": 55,
-      "drought": 0,
+      "gp2026": 56,
+      "drought": 1,
       "lastHR": "May 27",
       "careerGPHR": 5.1,
-      "seasonGPHR": 4.2,
-      "ratio": 0.0,
+      "seasonGPHR": 4.3,
+      "ratio": 0.196,
       "hr2025": null
     },
     {
@@ -290,16 +303,16 @@
       "hr2025": null
     },
     {
-      "id": 671739,
-      "name": "Michael Harris II",
+      "id": 664023,
+      "name": "Ian Happ",
       "team": "\u2014",
       "hr2026": 12,
-      "gp2026": 54,
-      "drought": 2,
-      "lastHR": "May 26",
-      "careerGPHR": 6.8,
-      "seasonGPHR": 4.5,
-      "ratio": 0.294,
+      "gp2026": 53,
+      "drought": 0,
+      "lastHR": "May 28",
+      "careerGPHR": 6.4,
+      "seasonGPHR": 4.4,
+      "ratio": 0.0,
       "hr2025": null
     },
     {
@@ -398,25 +411,12 @@
       "name": "Oneil Cruz",
       "team": "\u2014",
       "hr2026": 11,
-      "gp2026": 54,
-      "drought": 3,
+      "gp2026": 55,
+      "drought": 4,
       "lastHR": "May 24",
       "careerGPHR": 6.1,
-      "seasonGPHR": 4.9,
-      "ratio": 0.492,
-      "hr2025": null
-    },
-    {
-      "id": 664023,
-      "name": "Ian Happ",
-      "team": "\u2014",
-      "hr2026": 11,
-      "gp2026": 52,
-      "drought": 0,
-      "lastHR": "May 27",
-      "careerGPHR": 6.5,
-      "seasonGPHR": 4.7,
-      "ratio": 0.0,
+      "seasonGPHR": 5.0,
+      "ratio": 0.656,
       "hr2025": null
     },
     {
@@ -437,12 +437,12 @@
       "name": "Kazuma Okamoto",
       "team": "\u2014",
       "hr2026": 11,
-      "gp2026": 54,
-      "drought": 0,
+      "gp2026": 55,
+      "drought": 1,
       "lastHR": "May 27",
-      "careerGPHR": 4.9,
-      "seasonGPHR": 4.9,
-      "ratio": 0.0,
+      "careerGPHR": 5.0,
+      "seasonGPHR": 5.0,
+      "ratio": 0.2,
       "hr2025": null
     },
     {
@@ -463,12 +463,12 @@
       "name": "Pete Alonso",
       "team": "\u2014",
       "hr2026": 10,
-      "gp2026": 56,
-      "drought": 5,
+      "gp2026": 57,
+      "drought": 6,
       "lastHR": "May 22",
       "careerGPHR": 5.8,
-      "seasonGPHR": 5.6,
-      "ratio": 0.862,
+      "seasonGPHR": 5.7,
+      "ratio": 1.034,
       "hr2025": 38
     },
     {
@@ -476,12 +476,12 @@
       "name": "Jake Burger",
       "team": "\u2014",
       "hr2026": 10,
-      "gp2026": 53,
-      "drought": 3,
+      "gp2026": 54,
+      "drought": 4,
       "lastHR": "May 24",
       "careerGPHR": 5.1,
-      "seasonGPHR": 5.3,
-      "ratio": 0.588,
+      "seasonGPHR": 5.4,
+      "ratio": 0.784,
       "hr2025": null
     },
     {
@@ -520,6 +520,19 @@
       "lastHR": "May 27",
       "careerGPHR": 5.3,
       "seasonGPHR": 5.7,
+      "ratio": 0.0,
+      "hr2025": null
+    },
+    {
+      "id": 645277,
+      "name": "Ozzie Albies",
+      "team": "\u2014",
+      "hr2026": 9,
+      "gp2026": 57,
+      "drought": 0,
+      "lastHR": "May 28",
+      "careerGPHR": 6.5,
+      "seasonGPHR": 6.3,
       "ratio": 0.0,
       "hr2025": null
     },
