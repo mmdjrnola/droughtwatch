@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T14:03:36Z",
-  "updatedLabel": "Jul 16, 2026 14:03 UTC",
+  "updatedAt": "2026-07-17T13:47:46Z",
+  "updatedLabel": "Jul 17, 2026 13:47 UTC",
   "season": 2026,
   "players": [
     {
@@ -8,12 +8,12 @@
       "name": "Kyle Schwarber",
       "team": "\u2014",
       "hr2026": 32,
-      "gp2026": 93,
-      "drought": 4,
+      "gp2026": 94,
+      "drought": 5,
       "lastHR": "Jul 8",
       "careerGPHR": 5.6,
       "seasonGPHR": 2.9,
-      "ratio": 0.714,
+      "ratio": 0.893,
       "hr2025": 56
     },
     {
@@ -216,12 +216,12 @@
       "name": "Juan Soto",
       "team": "\u2014",
       "hr2026": 21,
-      "gp2026": 78,
-      "drought": 3,
+      "gp2026": 79,
+      "drought": 4,
       "lastHR": "Jul 9",
       "careerGPHR": 6.8,
-      "seasonGPHR": 3.7,
-      "ratio": 0.441,
+      "seasonGPHR": 3.8,
+      "ratio": 0.588,
       "hr2025": 43
     },
     {
@@ -281,12 +281,12 @@
       "name": "Bryce Harper",
       "team": "\u2014",
       "hr2026": 20,
-      "gp2026": 97,
-      "drought": 12,
+      "gp2026": 98,
+      "drought": 13,
       "lastHR": "Jun 29",
       "careerGPHR": 4.9,
-      "seasonGPHR": 4.8,
-      "ratio": 2.449,
+      "seasonGPHR": 4.9,
+      "ratio": 2.653,
       "hr2025": null
     },
     {
@@ -736,12 +736,12 @@
       "name": "Brandon Marsh",
       "team": "\u2014",
       "hr2026": 15,
-      "gp2026": 92,
-      "drought": 10,
+      "gp2026": 93,
+      "drought": 11,
       "lastHR": "Jul 1",
       "careerGPHR": 10.4,
-      "seasonGPHR": 6.1,
-      "ratio": 0.962,
+      "seasonGPHR": 6.2,
+      "ratio": 1.058,
       "hr2025": null
     },
     {
