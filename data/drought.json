@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T16:07:45Z",
-  "updatedLabel": "Sep 10, 2026 16:07 UTC",
+  "updatedAt": "2026-09-11T16:11:25Z",
+  "updatedLabel": "Sep 11, 2026 16:11 UTC",
   "season": 2026,
   "players": [
     {
@@ -8,12 +8,12 @@
       "name": "Kyle Schwarber",
       "team": "\u2014",
       "hr2026": 44,
-      "gp2026": 140,
-      "drought": 0,
+      "gp2026": 141,
+      "drought": 1,
       "lastHR": "Sep 9",
       "careerGPHR": 5.6,
       "seasonGPHR": 3.2,
-      "ratio": 0.0,
+      "ratio": 0.179,
       "hr2025": 56
     },
     {
@@ -34,12 +34,12 @@
       "name": "Junior Caminero",
       "team": "\u2014",
       "hr2026": 39,
-      "gp2026": 145,
-      "drought": 1,
+      "gp2026": 146,
+      "drought": 2,
       "lastHR": "Sep 8",
       "careerGPHR": 5.5,
       "seasonGPHR": 3.7,
-      "ratio": 0.182,
+      "ratio": 0.364,
       "hr2025": 45
     },
     {
@@ -47,12 +47,12 @@
       "name": "Yordan Alvarez",
       "team": "\u2014",
       "hr2026": 38,
-      "gp2026": 144,
-      "drought": 2,
+      "gp2026": 145,
+      "drought": 3,
       "lastHR": "Sep 6",
       "careerGPHR": 5.0,
       "seasonGPHR": 3.8,
-      "ratio": 0.4,
+      "ratio": 0.6,
       "hr2025": null
     },
     {
@@ -60,12 +60,12 @@
       "name": "Hunter Goodman",
       "team": "\u2014",
       "hr2026": 37,
-      "gp2026": 125,
-      "drought": 1,
+      "gp2026": 126,
+      "drought": 2,
       "lastHR": "Sep 8",
       "careerGPHR": 4.4,
       "seasonGPHR": 3.4,
-      "ratio": 0.227,
+      "ratio": 0.455,
       "hr2025": null
     },
     {
@@ -73,12 +73,12 @@
       "name": "Matt Olson",
       "team": "\u2014",
       "hr2026": 37,
-      "gp2026": 146,
-      "drought": 13,
+      "gp2026": 147,
+      "drought": 14,
       "lastHR": "Aug 26",
       "careerGPHR": 5.7,
-      "seasonGPHR": 3.9,
-      "ratio": 2.281,
+      "seasonGPHR": 4.0,
+      "ratio": 2.456,
       "hr2025": null
     },
     {
@@ -86,12 +86,12 @@
       "name": "Ben Rice",
       "team": "\u2014",
       "hr2026": 36,
-      "gp2026": 139,
-      "drought": 4,
+      "gp2026": 140,
+      "drought": 5,
       "lastHR": "Sep 4",
-      "careerGPHR": 4.7,
+      "careerGPHR": 4.8,
       "seasonGPHR": 3.9,
-      "ratio": 0.851,
+      "ratio": 1.042,
       "hr2025": null
     },
     {
@@ -125,12 +125,12 @@
       "name": "Colson Montgomery",
       "team": "\u2014",
       "hr2026": 31,
-      "gp2026": 137,
-      "drought": 3,
+      "gp2026": 138,
+      "drought": 4,
       "lastHR": "Sep 5",
       "careerGPHR": 4.0,
-      "seasonGPHR": 4.4,
-      "ratio": 0.75,
+      "seasonGPHR": 4.5,
+      "ratio": 1.0,
       "hr2025": null
     },
     {
@@ -138,12 +138,12 @@
       "name": "Munetaka Murakami",
       "team": "\u2014",
       "hr2026": 31,
-      "gp2026": 110,
-      "drought": 0,
+      "gp2026": 111,
+      "drought": 1,
       "lastHR": "Sep 9",
       "careerGPHR": 5.8,
-      "seasonGPHR": 3.5,
-      "ratio": 0.0,
+      "seasonGPHR": 3.6,
+      "ratio": 0.172,
       "hr2025": null
     },
     {
@@ -170,6 +170,19 @@
       "careerGPHR": 7.4,
       "seasonGPHR": 4.6,
       "ratio": 0.405,
+      "hr2025": null
+    },
+    {
+      "id": 671277,
+      "name": "Luis Garc\u00eda Jr.",
+      "team": "\u2014",
+      "hr2026": 30,
+      "gp2026": 136,
+      "drought": 0,
+      "lastHR": "Sep 10",
+      "careerGPHR": 8.4,
+      "seasonGPHR": 4.5,
+      "ratio": 0.0,
       "hr2025": null
     },
     {
@@ -203,12 +216,12 @@
       "name": "Miguel Vargas",
       "team": "\u2014",
       "hr2026": 30,
-      "gp2026": 143,
-      "drought": 4,
+      "gp2026": 144,
+      "drought": 5,
       "lastHR": "Sep 4",
       "careerGPHR": 7.7,
       "seasonGPHR": 4.8,
-      "ratio": 0.519,
+      "ratio": 0.649,
       "hr2025": null
     },
     {
@@ -225,29 +238,16 @@
       "hr2025": null
     },
     {
-      "id": 671277,
-      "name": "Luis Garc\u00eda Jr.",
-      "team": "\u2014",
-      "hr2026": 29,
-      "gp2026": 135,
-      "drought": 0,
-      "lastHR": "Sep 9",
-      "careerGPHR": 8.5,
-      "seasonGPHR": 4.7,
-      "ratio": 0.0,
-      "hr2025": null
-    },
-    {
       "id": 664040,
       "name": "Brandon Lowe",
       "team": "\u2014",
       "hr2026": 29,
-      "gp2026": 136,
-      "drought": 7,
+      "gp2026": 137,
+      "drought": 8,
       "lastHR": "Sep 1",
       "careerGPHR": 4.7,
       "seasonGPHR": 4.7,
-      "ratio": 1.489,
+      "ratio": 1.702,
       "hr2025": null
     },
     {
@@ -268,12 +268,12 @@
       "name": "Bryce Harper",
       "team": "\u2014",
       "hr2026": 27,
-      "gp2026": 146,
-      "drought": 12,
+      "gp2026": 147,
+      "drought": 13,
       "lastHR": "Aug 26",
       "careerGPHR": 5.0,
       "seasonGPHR": 5.4,
-      "ratio": 2.4,
+      "ratio": 2.6,
       "hr2025": null
     },
     {
@@ -294,12 +294,12 @@
       "name": "Jake Burger",
       "team": "\u2014",
       "hr2026": 26,
-      "gp2026": 139,
-      "drought": 0,
+      "gp2026": 140,
+      "drought": 1,
       "lastHR": "Sep 9",
       "careerGPHR": 5.1,
-      "seasonGPHR": 5.3,
-      "ratio": 0.0,
+      "seasonGPHR": 5.4,
+      "ratio": 0.196,
       "hr2025": null
     },
     {
@@ -368,6 +368,19 @@
       "hr2025": null
     },
     {
+      "id": 592626,
+      "name": "Joc Pederson",
+      "team": "\u2014",
+      "hr2026": 26,
+      "gp2026": 134,
+      "drought": 0,
+      "lastHR": "Sep 10",
+      "careerGPHR": 6.2,
+      "seasonGPHR": 5.2,
+      "ratio": 0.0,
+      "hr2025": null
+    },
+    {
       "id": 621439,
       "name": "Byron Buxton",
       "team": "\u2014",
@@ -394,29 +407,16 @@
       "hr2025": null
     },
     {
-      "id": 592626,
-      "name": "Joc Pederson",
-      "team": "\u2014",
-      "hr2026": 25,
-      "gp2026": 133,
-      "drought": 3,
-      "lastHR": "Sep 5",
-      "careerGPHR": 6.2,
-      "seasonGPHR": 5.3,
-      "ratio": 0.484,
-      "hr2025": null
-    },
-    {
       "id": 572233,
       "name": "Christian Walker",
       "team": "\u2014",
       "hr2026": 25,
-      "gp2026": 141,
-      "drought": 1,
+      "gp2026": 142,
+      "drought": 2,
       "lastHR": "Sep 8",
       "careerGPHR": 8.2,
-      "seasonGPHR": 5.6,
-      "ratio": 0.122,
+      "seasonGPHR": 5.7,
+      "ratio": 0.244,
       "hr2025": null
     },
     {
@@ -463,12 +463,12 @@
       "name": "Michael Harris II",
       "team": "\u2014",
       "hr2026": 24,
-      "gp2026": 140,
-      "drought": 7,
+      "gp2026": 141,
+      "drought": 8,
       "lastHR": "Sep 1",
       "careerGPHR": 6.8,
-      "seasonGPHR": 5.8,
-      "ratio": 1.029,
+      "seasonGPHR": 5.9,
+      "ratio": 1.176,
       "hr2025": null
     },
     {
@@ -541,12 +541,12 @@
       "name": "Drake Baldwin",
       "team": "\u2014",
       "hr2026": 23,
-      "gp2026": 123,
-      "drought": 0,
+      "gp2026": 124,
+      "drought": 1,
       "lastHR": "Sep 9",
       "careerGPHR": 5.9,
-      "seasonGPHR": 5.3,
-      "ratio": 0.0,
+      "seasonGPHR": 5.4,
+      "ratio": 0.169,
       "hr2025": null
     },
     {
@@ -632,12 +632,12 @@
       "name": "Randy Arozarena",
       "team": "\u2014",
       "hr2026": 22,
-      "gp2026": 138,
-      "drought": 7,
+      "gp2026": 139,
+      "drought": 8,
       "lastHR": "Sep 1",
       "careerGPHR": 6.7,
       "seasonGPHR": 6.3,
-      "ratio": 1.045,
+      "ratio": 1.194,
       "hr2025": null
     },
     {
@@ -671,12 +671,12 @@
       "name": "Yandy D\u00edaz",
       "team": "\u2014",
       "hr2026": 22,
-      "gp2026": 140,
-      "drought": 1,
+      "gp2026": 141,
+      "drought": 2,
       "lastHR": "Sep 8",
       "careerGPHR": 8.6,
       "seasonGPHR": 6.4,
-      "ratio": 0.116,
+      "ratio": 0.233,
       "hr2025": null
     },
     {
